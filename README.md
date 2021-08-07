@@ -10,7 +10,7 @@
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
 - 🌱 I’m currently learning (other than ML) Android Development, Chinese, Music Production, Chess, Table Tennis
-- 💬 Ask me about `how AI is changing the world`, `Machine Learning in Production`, the `Data Science mindset`, and `Python Best Practices`
+- 💬 Ask me about `how AI is changing the world`, `Machine Learning in Production`, the `Why I Love Data Science`, and `Python Best Practices`
 - 📫 How to reach me: **matthew.taruno@gmail.com**
 - 🌐 **www.matthewtaruno.com**
 <!-- <h3 align="left">Tools and Frameworks:</h3> -->
