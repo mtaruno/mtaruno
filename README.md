@@ -5,7 +5,7 @@
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on:
+🔭 Some things I am currently working on:
 <img width="917" alt="Matthew’s Current Projects" src="https://user-images.githubusercontent.com/44710581/128583976-02fbbfbc-f40e-4cdc-8d51-97af1b746ece.png">
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
