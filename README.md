@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-<img width="764" alt="Matthew’s Current Projects" src="https://user-images.githubusercontent.com/44710581/128583870-901d3891-6a3b-4daf-807c-a8521aad9fd6.png">
+<img width="917" alt="Matthew’s Current Projects" src="https://user-images.githubusercontent.com/44710581/128583976-02fbbfbc-f40e-4cdc-8d51-97af1b746ece.png">
 
 - 🌱 I’m currently learning (other than ML) Android Development, Chinese, Music Production, Chess, Table Tennis
 - 💬 Ask me about how AI is changing the world, Machine Learning in Production, the Data Science mindset, and Python Best Practices
