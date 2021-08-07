@@ -13,5 +13,5 @@
 - 💬 Ask me about **how AI is changing the world**, **Machine Learning in Production**, the **Data Science mindset**, and **Python Best Practices**
 - 📫 How to reach me: **matthew.taruno@gmail.com**
 
-<h3 align="left">Tools and Frameworks:</h3>
-<a href="https://www.tensorflow.org" target="_blank">
+<!-- <h3 align="left">Tools and Frameworks:</h3> -->
+<!-- <a href="https://www.tensorflow.org" target="_blank"> -->
