@@ -25,7 +25,7 @@
 •	Leading a team as a core code contributor, project manager, and orator in replicating and extending the bioinformatic research of Percha and Altman 2015 titled “Learning the Structure of Biomedical Relationships from Unstructured Text”\
 •	Parsed XML from Medline and DrugBank to leverage distributional semantics for efficiently proposing novel drug-gene relationships (cost of developing new drug is $3-10 billion) using tools like the Stanford parser and biclustering algorithms
 
-2. [`EVE Bot`](https://github.com/mtaruno/eve-bot) _August 2020_ /
+2. [`EVE Bot`](https://github.com/mtaruno/eve-bot) _August 2020_ \
 •	Built a Twitter Apple Support chatbot leveraging NLP techniques such as named entity recognition and document embeddings on Twitter data and a Bidirectional LSTM in Python to classify intents and deployed using Streamlit\
 •	Wrote a [Medium article](https://towardsdatascience.com/complete-guide-to-building-a-chatbot-with-spacy-and-deep-learning-d18811465876) that contains a video demo and goes in depth on the technical and practical workings of this project
 
