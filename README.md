@@ -32,3 +32,5 @@
 3. `Research Project: Data Literacy Research`\
 •	Authoring and engineering a useful metric for the data literacy expectations of job recruiters that leverages text mining, topic modelling, and supervised learning techniques on a corpus scraped from LinkedIn using Selenium with Sandra Cannon
 
+4. `Vnomics DPF Failure Prediction`
+•	Built autoencoder models with ML Flow and Keras to predict truck failures given sensor data for a fuel optimization startup called Vnomics as my capstone project; the model is optimized by comprehensive time series feature engineering with TS Fresh to achieve a high recall score of over 80% on unseen data
