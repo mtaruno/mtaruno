@@ -21,7 +21,7 @@
 
 **Note:** _You can see the code I wrote for these projects below (which is probably pinned, if not in one of my repositories)_
 
-1. [`Bioinformatic Research on Learning the Structure of Biomedical Relationships from Unstructured text`](https://github.com/jdahhan/Stem-Away-group-5) _June 2021 - August 2021_\
+1. [`Bioinformatic Research on Learning the Structure of Biomedical Relationships from Unstructured text`](https://github.com/jdahhan/Stem-Away-group-5) _June - August 2021_\
 •	Leading a team as a core code contributor, project manager, and orator in replicating and extending the bioinformatic research of Percha and Altman 2015 titled “Learning the Structure of Biomedical Relationships from Unstructured Text”\
 •	Parsed XML from Medline and DrugBank to leverage distributional semantics for efficiently proposing novel drug-gene relationships (cost of developing new drug is $3-10 billion) using tools like the Stanford parser and biclustering algorithms
 
