@@ -23,7 +23,7 @@
 
 1. `EVE Bot`\
 •	Built a Twitter Apple Support chatbot leveraging NLP techniques such as named entity recognition and document embeddings on Twitter data and a Bidirectional LSTM in Python to classify intents and deployed using Streamlit\
-•	Wrote a Medium article that contains a video demo and goes in depth on the technical and practical workings of this project\
+•	Wrote a [Medium article](https://towardsdatascience.com/complete-guide-to-building-a-chatbot-with-spacy-and-deep-learning-d18811465876) that contains a video demo and goes in depth on the technical and practical workings of this project
 
 2. `Bioinformatic Research on Learning the Structure of Biomedical Relationships from Unstructured text`\
 •	Leading a team as a core code contributor, project manager, and orator in replicating and extending the bioinformatic research of Percha and Altman 2015 titled “Learning the Structure of Biomedical Relationships from Unstructured Text”\
