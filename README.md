@@ -18,7 +18,8 @@
 
 
 <h3 align="center">Stuff I Built</h3>
-**Note:** You can see the code I wrote for these projects below (which is probably pinned, if not in one of my repositories)
+
+**Note:** _You can see the code I wrote for these projects below (which is probably pinned, if not in one of my repositories)_
 
 1. `EVE Bot`\
 •	Built a Twitter Apple Support chatbot leveraging NLP techniques such as named entity recognition and document embeddings on Twitter data and a Bidirectional LSTM in Python to classify intents and deployed using Streamlit\
