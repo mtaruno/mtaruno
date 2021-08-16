@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Taruno</h1>
-<h3 align="center">A Machine Learning Enthusiast </h3>
+<h3 align="center">A Builder and AI Enthusiast </h3>
 
 <!--
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
