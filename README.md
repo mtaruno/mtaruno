@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matthew Taruno</h1>
-<h3 align="center">AI Enthusiast and Builder </h3>
+<h3 align="center">AI Visionary and Builder </h3>
 
 <!--
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 🔭 Some things I am currently working on:
-<img width="917" alt="Matthew’s Current Projects" src="https://user-images.githubusercontent.com/44710581/128583976-02fbbfbc-f40e-4cdc-8d51-97af1b746ece.png">
+<img width="1325" alt="Screen Shot 2021-12-05 at 21 52 35" src="https://user-images.githubusercontent.com/44710581/144751706-f4d5741a-a05a-4bf5-88ca-c97393cb743d.png">
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
 - 🌱 I’m currently learning (other than ML) Android Development, Chinese, Music Production, Chess, Table Tennis
