@@ -6,7 +6,8 @@
 -->
 
 🔭 Some things I am currently working on:
-<img width="1325" alt="Screen Shot 2021-12-05 at 21 52 35" src="https://user-images.githubusercontent.com/44710581/144751706-f4d5741a-a05a-4bf5-88ca-c97393cb743d.png">
+<img width="1307" alt="Screen Shot 2021-12-05 at 21 56 57" src="https://user-images.githubusercontent.com/44710581/144751881-4d9af37f-7c67-4d35-a234-192c2818e5a5.png">
+
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
 - 🌱 I’m currently learning (other than ML) Android Development, Chinese, Music Production, Chess, Table Tennis
