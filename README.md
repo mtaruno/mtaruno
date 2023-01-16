@@ -6,12 +6,14 @@
 -->
 
 🔭 Some things I am currently working on:
-<img width="1307" alt="Screen Shot 2021-12-05 at 21 56 57" src="https://user-images.githubusercontent.com/44710581/144751881-4d9af37f-7c67-4d35-a234-192c2818e5a5.png">
+- Full Time Solutions Architect at Alibaba Cloud Indonesia
+- AI Recommendation Engine Demo
+- 
 
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
 - 🌱 I’m currently learning (other than ML) Android Development, Chinese, Music Production, Chess, Table Tennis
-- 💬 Ask me about `how AI is changing the world`, `Machine Learning in Production`, the `Why I Love Data Science and Tech`, and `Python Best Practices`
+- 💬 Ask me about `how AI is changing the world`, `Machine Learning in Production`, the `Why I Love Data Science and Tech`, and `How Companies can Leverage Big Data and Analytics`
 - 📫 How to reach me: **matthew.taruno@gmail.com**
 - 🌐 **www.matthewtaruno.com**
 <!-- <h3 align="left">Tools and Frameworks:</h3> -->
