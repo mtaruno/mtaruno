@@ -8,7 +8,6 @@
 🔭 Some things I am currently working on:
 - Full Time Solutions Architect at Alibaba Cloud Indonesia
 - AI Recommendation Engine Demo
-- 
 
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
