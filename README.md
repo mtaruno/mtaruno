@@ -5,7 +5,7 @@
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 Current Role: Full Time Solutions Architect in Alibaba Cloud Indonesia
+🔭 Current Role: Masters of Science in Engineering in Data Science and IT in Tsinghua University
 
 
 - 🟣 I'm continuously learning: Machine Learning Engineering, Financial Literacy (Markets and Financial Math), and Entrepeneurship (Value Creation)
