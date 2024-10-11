@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555;">🚀 Seeking Summer 2025 Internship Opportunities in Software Engineering (ML/AI) in the US 🌟</h3>
-- 📫 How to reach me: mtaruno@uw.edu
+* 📫 How to reach me: mtaruno@uw.edu
 <!--
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
