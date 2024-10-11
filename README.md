@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthew Taruno</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555;">🚀 Seeking Summer 2025 Internship Opportunities in Software Engineering (ML/AI) 🌟</h3>
+
 <!--
 **mtaruno/mtaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
