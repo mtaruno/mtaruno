@@ -14,6 +14,7 @@
 - 🛠️ I love coding and problem-solving. I learn both **bottom-up** (math, algorithms, system architecture) and **top-down** (product, deployment, optimization).
 
 🔗 **Recent Projects**:
+I love to experiment with AI systems. Seeing possibilities of AI unlocked over the years to make the hard things I tried more accessible is really fun to see unfold.
 - [Type Like You](https://github.com/mtaruno/type-like-you) — Personalized typing style modeling.
 - [SWE-Agent-CodeGeeX](https://github.com/mtaruno/SWE-Agent-codegeex) — Building custom agent functions for autonomous coding agents.
 
