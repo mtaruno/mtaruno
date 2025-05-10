@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matthew Taruno</h1>
-<h3 align="center">Machine Learning Engineer</h3>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555;">🚀 Machine Learning Engineer</h3>
 
